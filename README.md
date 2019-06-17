@@ -1,4 +1,5 @@
 # squid4-autoinstall-proxy
+```bash
 #installasi complete software 
 apt-get update && apt-get upgrade -y
 git clone https://github.com/puji122/squid4-autoinstall-notproxy.git
