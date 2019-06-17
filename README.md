@@ -2,7 +2,7 @@
 ```bash
 #installasi complete software 
 apt-get update && apt-get upgrade -y
-git clone https://github.com/puji122/squid4-autoinstall-notproxy.git
+git clone https://github.com/speedlink0/squid4-autoinstall-proxy
 cd squid4-autoinstall-notproxy
 chmod +x squid4.sh
 chmod 777 squid4.sh
