@@ -1,0 +1,1 @@
+# squid4-autoinstall-proxy
